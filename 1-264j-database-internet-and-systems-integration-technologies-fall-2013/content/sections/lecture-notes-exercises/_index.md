@@ -1,0 +1,57 @@
+---
+course_id: 1-264j-database-internet-and-systems-integration-technologies-fall-2013
+layout: course_section
+menu:
+  leftnav:
+    identifier: 5fa4a8fea152f2028c4992784003b58c
+    name: Lecture Notes & Exercises
+    weight: 50
+title: Lecture Notes & Exercises
+type: course
+uid: 5fa4a8fea152f2028c4992784003b58c
+
+---
+
+Most lectures include an in-class exercise. The lecture notes contain a description of the exercise and sample solutions.
+
+Each student must submit 30/35 class activities (case studies and / or in-class exercises) to complete the course. In-class exercises are due after the class. Each class activity is worth 0.33% (for a total of 10%) of the final grade.
+
+| LEC # | LECTURE TOPICS | Supporting files for EXCERCISES |
+| --- | --- | --- |
+| 1 |  {{< br >}}{{< br >}} [System process: Introduction (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_1) {{< br >}}{{< br >}}  | &nbsp; |
+| 2 |  {{< br >}}{{< br >}} [System process: Fundamentals (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_2) {{< br >}}{{< br >}}  | &nbsp; |
+| 3 |  {{< br >}}{{< br >}} [System process: Time and resource estimation, part 1 (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_3) {{< br >}}{{< br >}}  | &nbsp; |
+| 4 |  {{< br >}}{{< br >}} [System process: Time and resource estimation, part 2 (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_4) {{< br >}}{{< br >}}  | &nbsp; |
+| 5 |  {{< br >}}{{< br >}} [System process: CMMI, ISO (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_5) {{< br >}}{{< br >}}  | &nbsp; |
+| 6 | [System process: UML, part 1 (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_6) |  {{< br >}}{{< br >}} [UML exercise 1 - input file (VPP)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/0c5bad5365db1a24e8b3cc4c5a2e3562_L6_input.vpp) {{< br >}}{{< br >}} [UML exercise 1 - solution (VPP)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/baf3e71583d1b5f18fde7a5f07be138d_L6_sol.vpp) {{< br >}}{{< br >}}  |
+| 7 |  {{< br >}}{{< br >}} [System process: UML, part 2 (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_7) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [UML exercise 2 - input file (VPP)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/1c746ec7fbfa7671d5f7b450919d2fa1_L7_input.vpp) {{< br >}}{{< br >}} [UML exercise 2 - solution (VPP)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/5883283b0230d7ddf8583730a91ee7cf_L7_sol.vpp) {{< br >}}{{< br >}}  |
+| 8 | [Database: Data modeling, part 1 (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_8) | &nbsp; |
+| 9 |  {{< br >}}{{< br >}} [Database: Data modeling, part 2 (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_9) {{< br >}}{{< br >}}  | [Data modeling exercise 2 - input file (VPP)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/1001929f526514e8e77d4703cf0a7205_L9_input.vpp) |
+| 10 |  {{< br >}}{{< br >}} [Database: Data normalization (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_10) {{< br >}}{{< br >}}  | &nbsp; |
+| 11 |  {{< br >}}{{< br >}} [Database: SQL basics: SELECT, INSERT (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_11) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [SQL: Basics, SELECT exercise 1 - input file (SQL)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/d29e0eb9e82bb8c11ce0a04f31d097f5_L11_input.sql) {{< br >}}{{< br >}} [SQL: Basics, SELECT exercise 1 - solution (SQL)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/c9e9a57d027566d2304a4058b724ed1d_L11_sol.sql) {{< br >}}{{< br >}}  |
+| 12 |  {{< br >}}{{< br >}} [Database: SQL lab (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_12) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [SQL: Basics, SELECT exercise 2 - solution (SQL)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/6d799a1c343c51f57e03572dd62392e7_L12_sol.sql) {{< br >}}{{< br >}}  |
+| 13 |  {{< br >}}{{< br >}} [Database: SQL joins, subqueries, views (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_13) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [SQL: Joins, views exercise - solution (SQL)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/262b8447ba4b7b072cd243aaaafa2816_L13_sol.sql) {{< br >}}{{< br >}}  |
+| 14 |  {{< br >}}{{< br >}} [Database: SQL homework 5 (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_14) {{< br >}}{{< br >}}  | [SQL exercise 1 - input aircraft parts data part 1 (ZIP - 2.2MB)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/efb4d18a7438e504fbc276894f3db990_L14_part1_input.zip) (This ZIP file contains: 1 .mdf file.) & [part 2 (ZIP - 3.6MB)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/59b47b89943d543545ea60bbc1b7d33a_L14_part2_input.zip) (This ZIP file contains: 1 .mdf file.) |
+| 15 |  {{< br >}}{{< br >}} [Database: SQL transactions, connections (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_15) {{< br >}}{{< br >}}  | [SQL exercise 2 - input beef data (CSV)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/3f2b45c65d261e139a23e98d5254bf58_L15_input.csv) & [SQL file (SQL)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/e9cb9ea69b4064a92767426d5531c32b_L15_input.sql) |
+| 16 | [Web: Introduction, HTTP (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_16) | &nbsp; |
+| 17 |  {{< br >}}{{< br >}} [Web: XHTML, CSS (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_17) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [XHTML, CSS exercise - input data (ZIP)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/532ccc3a2bd2970c21684d8214d970b5_L17_input.zip) (This ZIP file contains: 2 .jpg files.) {{< br >}}{{< br >}} [XHTML, CSS exercise - solution (ZIP)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/01084d1caf76b46d98168a61159bdb76_L17_sol.zip) (This ZIP file contains: 2 folders, 2 .jpg files, 3 .html files and 1 .xml file.) {{< br >}}{{< br >}}  |
+| 18 | [Web: Connecting Web and database (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_18) |  {{< br >}}{{< br >}} [Connecting Web and database - input data (ZIP)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/20a6edbc402694cb38e8d5b75e6aee32_L18_input.zip) (This ZIP file contains: 1 folder, 1 .sitemap file and 1 .master file.) {{< br >}}{{< br >}} [Connecting Web and database - solution (ZIP)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/a051b4d803b78ca00fa3c5e5f7e806f6_L18_sol.zip) (This ZIP file contains: 1 folder, 2 .aspx files, 1 .sitemap file and 1 .master file.) {{< br >}}{{< br >}}  |
+| 19 | [Web: Web and database: Forms (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_19) |  {{< br >}}{{< br >}} [Web database: Forms and controls exercise 1 - solution (ZIP - 11.5MB)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/15b310526a0affb2be175b06bf36a7d4_L19_sol.zip) (This ZIP file contains: 2 folders, 5 .aspx files, 1. sitemap file and 1. master file.) {{< br >}}{{< br >}}  |
+| 20 | [Web: Web and database (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_20) |  {{< br >}}{{< br >}} [Web database: Forms and controls exercise 2 - solution (ZIP)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/69118dd925ab64e7419e54551ae1fa00_L20_sol.zip) (This ZIP file contains: 1 folder, 1 .asax file, 9 .aspx files, 1 .sitemap file and 1 .master file.) {{< br >}}{{< br >}}  |
+| 21 | [Web: XML (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_21) |  {{< br >}}{{< br >}} [XML exercise - input data (ZIP)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/0263e0b98cf215243fc402164b8456d1_L21_input.zip) (This ZIP file contains: 1 folder, 1 .asmx file and 3 .aspx files.) {{< br >}}{{< br >}} [XML exercise - solution (XML)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/b070d51dd06a219dab92fa42043a73da_L21_sol.xml) {{< br >}}{{< br >}}  |
+| 22 | [Web: Web services (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_22) | [Web services exercise - input data (ZIP)](/coursemedia/1-264j-database-internet-and-systems-integration-technologies-fall-2013/c1842d2ac3eec52965f53dc35a6479b8_L22_input.zip) (This ZIP file contains: 1 folder, 1 .asmx file and 4 .sql files.) |
+| 23 | [Web: Web services: WSDL, registries (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_23) | &nbsp; |
+| 24 |  {{< br >}}{{< br >}} [Web: Service oriented architecture, EDI (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_24) {{< br >}}{{< br >}}  | &nbsp; |
+| 25 | [Security: Framework, concepts (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_25) | &nbsp; |
+| 26 |  {{< br >}}{{< br >}} [Security: Protocols, part 1 (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_26) {{< br >}}{{< br >}}  | &nbsp; |
+| 27 |  {{< br >}}{{< br >}} [Security: Protocols, part 2 (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_27) {{< br >}}{{< br >}}  | &nbsp; |
+| 28 |  {{< br >}}{{< br >}} [Security: Cryptography (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_28) {{< br >}}{{< br >}}  | &nbsp; |
+| 29 |  {{< br >}}{{< br >}} [Security: SSL, Internet (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_29) {{< br >}}{{< br >}}  | &nbsp; |
+| 30 | [Networks: System architecture, part 1 (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_30) | &nbsp; |
+| 31 |  {{< br >}}{{< br >}} [Networks: System architecture, part 2 (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_31) {{< br >}}{{< br >}}  | &nbsp; |
+| 32 | [Networks: Basic telecom technology (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_32) | &nbsp; |
+| 33 | [Networks: Wired LANs, WANs (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_33) | &nbsp; |
+| 34 | [Networks: Connecting wired LANs, WANs (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_34) | &nbsp; |
+| 35 |  {{< br >}}{{< br >}} [Networks: Fiber optics (PDF - 1.5MB)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_35) {{< br >}}{{< br >}}  | &nbsp; |
+| 36 |  {{< br >}}{{< br >}} [Networks: Wireless (PDF - 1.1MB)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_36) {{< br >}}{{< br >}}  | &nbsp; |
+| 37 |  {{< br >}}{{< br >}} [Networks: Enterprise, VPN, MPLS. Course summary (PDF)]({{< baseurl >}}/sections/lecture-notes-exercises/mit1_264jf13_lect_37) {{< br >}}{{< br >}}  |
